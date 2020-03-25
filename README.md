@@ -1,1 +1,1 @@
-# shock1d
+Shock waves in one dimension
